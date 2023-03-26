@@ -1,0 +1,33 @@
+*{
+margin:0px;	
+padding:0px;
+
+}.header{
+background:#EAEC25;	
+font-style: italic;	
+font-weight: 500px	;	
+}
+.im{
+border-radius:150px;	
+	
+}
+.im2{
+width:250px;
+	
+}
+.h1{
+float:left;
+width:auto;	
+font-size:35px;		
+}
+.h{
+float:right;	
+width:auto;	
+font-size:35px;	
+}
+@media scren and (min-width: 600px) {
+.head{
+background:#A3B3EC;	
+font-weight: 350px	;		
+}
+}
