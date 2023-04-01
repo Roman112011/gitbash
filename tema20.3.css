@@ -25,14 +25,21 @@ float:right;
 width:auto;	
 font-size:35px;	
 }
-@media scren and (min-width: 600px) {
+@media screen and (min-width: 600px) {
 .head{
 background:#A3B3EC;	
-font-weight: 350px	;		
+font-weight: 350px	;
+
 }
 }
+@media screen and (min-width: 700px) {
 .d{
 border-radius:15px;	
-background:burlywood;	
+background-color: burlywood;	
 display:inline-block;	
+}		
+}
+.d{
+background-color:#B77D1B;	
+	
 }
